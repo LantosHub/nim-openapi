@@ -1,8 +1,9 @@
-.env
 *
 !*.*
 !*/
+
 *.exe
+.env
 
 .ipynb_checkpoints
 __pycache__
