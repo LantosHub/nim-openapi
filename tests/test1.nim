@@ -8,5 +8,5 @@
 import unittest
 
 import nim_openapi
-test "can add":
+test "Can create ":
   check add(5, 5) == 10
